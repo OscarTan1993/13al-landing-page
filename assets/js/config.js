@@ -54,7 +54,7 @@ const CONFIG = {
   product: {
     // Photo of your premium motor (e.g. Swing & Folding Arm Motor)
     // → Put your image in: assets/images/product-motor.jpg
-    image: "assets/images/product-motor.jpg",
+    image: "assets/images/product-motor.JPG",
   },
 
   // ----------------------------------------------------------
@@ -155,7 +155,7 @@ const CONFIG = {
   // 9. URGENCY BONUS (update month/year as needed)
   // ----------------------------------------------------------
   bonus: {
-    month: "March 2026",
+    month: "May 2026",
     scarcity: {
       enabled: true,
       totalSpots: 15,

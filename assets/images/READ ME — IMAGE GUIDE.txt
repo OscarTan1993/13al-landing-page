@@ -1,0 +1,49 @@
+=====================================================
+  13AL AUTOGATE — IMAGE UPLOAD GUIDE
+  Folder: assets/images/
+=====================================================
+
+Put your image files into THIS folder (assets/images/).
+Then update the filenames in assets/js/config.js if needed.
+
+REQUIRED IMAGES (by filename):
+-------------------------------------------------------
+
+HERO SECTION:
+  hero-bg.jpg         Background image behind the big headline
+                      → Best: aerial/landscape shot of Ipoh housing area
+                        or a gate opening at night
+
+PAIN SECTION:
+  pain-rain.jpg       Person getting drenched at a gate in heavy rain
+                      → Moody, dramatic shot. Dark sky, heavy rain.
+  dream-home.jpg      Beautiful modern home at night, gate opening
+                      → Well-lit exterior. Modern design preferred.
+
+TRUST / WORKMANSHIP (4 photos):
+  trust-1.jpg         Neat conduit cable run along a wall
+  trust-2.jpg         Uniformed 13AL technician on-site (with logo if possible)
+  trust-3.jpg         Close-up of full copper motor coils
+  trust-4.jpg         Full handover kit laid out neatly (remotes, keys, manual)
+
+VIDEO THUMBNAIL:
+  video-thumb.jpg     Thumbnail shown over the video player before it plays
+                      → Grab a still frame from your gate-demo video
+
+WHATSAPP SCREENSHOTS (rename to these):
+  wa-chat-1.jpg       Real WhatsApp booking conversation (blur phone number)
+  wa-chat-2.jpg       Customer thank-you message screenshot
+  wa-chat-3.jpg       Another positive review message
+
+TESTIMONIAL PHOTOS (optional, makes reviews much stronger):
+  review-1.jpg        Screenshot of Ahmad's WhatsApp message
+  review-2.jpg        Screenshot of Sarah's Google review
+  review-3.jpg        Screenshot of Rajendran's message
+
+=====================================================
+IMAGE SIZE RECOMMENDATIONS:
+  - Pain/Dream sections: 800 x 800px (square or taller)
+  - Trust photos: 600 x 600px (square)
+  - WA Screenshots: any size, portrait preferred
+  - All: save as JPG, quality 80-85% to keep loading fast
+=====================================================

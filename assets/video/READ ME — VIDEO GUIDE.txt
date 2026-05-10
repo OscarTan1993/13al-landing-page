@@ -1,0 +1,47 @@
+=====================================================
+  13AL AUTOGATE — VIDEO UPLOAD GUIDE
+  Folder: assets/video/
+=====================================================
+
+You have TWO options for the video demo section:
+
+-----------------------------------------------------
+OPTION A: YouTube Video (Recommended — easiest)
+-----------------------------------------------------
+1. Upload your gate demo video to YouTube
+2. Open your YouTube video, look at the URL:
+   e.g. https://www.youtube.com/watch?v=XxXxXxXxXxX
+   Your video ID is the part after "v=" → XxXxXxXxXxX
+
+3. Open: assets/js/config.js
+4. Find CONFIG.video and change to:
+      type:      "youtube",
+      youtubeId: "XxXxXxXxXxX",   ← paste your video ID here
+
+-----------------------------------------------------
+OPTION B: Local MP4 File (No internet needed)
+-----------------------------------------------------
+1. Place your video file in this folder as:
+      assets/video/gate-demo.mp4
+
+2. Open: assets/js/config.js
+3. Find CONFIG.video and change to:
+      type: "file",
+      src:  "assets/video/gate-demo.mp4",
+
+4. Optionally add a thumbnail for before the video plays:
+   - Put image in:  assets/images/video-thumb.jpg
+   - Set:  thumbnail: "assets/images/video-thumb.jpg"
+
+=====================================================
+VIDEO TIPS — What to Film:
+=====================================================
+  - Best shot: Car pulls up → gate glides open silently
+    → Car enters → gate closes automatically
+  - Duration: 10-15 seconds is ideal (no need for longer)
+  - Film at DUSK for the best visual impact
+  - The silence of the motor IS the selling point.
+    Do NOT add music — let the quiet speak for itself.
+  - Film in landscape (horizontal), 1920x1080 minimum
+
+=====================================================
